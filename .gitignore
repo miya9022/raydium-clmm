@@ -14,3 +14,4 @@ Makefile
 sdk/node_modules
 sdk/tools
 programs/amm/proptest-regressions
+.idea
